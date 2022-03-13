@@ -25,7 +25,7 @@ public class Test1_GoogleSearch {
 
         //click on search button
 
-        WebElement searchButton = driver.findElement(By.name("btnK"));
+        WebElement searchButton = driver.findElement(By.xpath("/body[1]/div[1]/div[3]/form[1]/div[1]/div[1]/div[3]/center[1]/input[1]"));
         searchButton.click();
 
         //close browser
