@@ -1,4 +1,4 @@
-# "Making Sense" Coding Automation Challenge by Pablo M.Calvano
+# "Selenium + Java + TestNG" Coding Automation Challenge by Pablo M.Calvano
 The following is a Java + Selenium + TestNG test execution which has been developed with simplicity in mind. Its purpose is to follow the guidelines from the code challenge:
 
 
