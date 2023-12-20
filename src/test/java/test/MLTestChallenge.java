@@ -52,8 +52,6 @@ public class MLTestChallenge {
         resultPage.clickOnOrderBy();
         resultPage.orderSearchResult();
 
-
-
         //Validaciones
         Assert.assertEquals("Córdoba", driver.findElement(By.xpath(".//div[contains(text(), 'Córdoba')]")).getText());
         Assert.assertEquals("Hasta $ 2.000.000", driver.findElement(By.xpath(".//div[contains(text(), 'Hasta $ 2.000.000')]")).getText());
