@@ -63,7 +63,7 @@ public class MLTestChallenge {
 
     @AfterTest
     public void tearDown(){
-        //close the  instance
+        //close the instance
         driver.quit();
     }
 
